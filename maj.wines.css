@@ -144,6 +144,11 @@ ul li a {
   overflow: auto;
 }
 
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
   .survey_{
     text-align:center; /* this is not working...*/
   }
